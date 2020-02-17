@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine
 USER root
 ENV BAIDUPCS_VERSION 3.7.0
 WORKDIR /
